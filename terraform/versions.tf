@@ -15,7 +15,7 @@ terraform {
     hostname = "app.terraform.io"
 
     workspaces {
-      name = "learn-hcp-packer-golden-image"
+      name = "learn-hcp-packer-golden-image2"
     }
   }
 }
